@@ -1,4 +1,4 @@
-# tidal_edges
+# Tidal Edges
 A composition entitled Tidal Edges, made using Sonic Pi. 
 
 # How To Use This File
